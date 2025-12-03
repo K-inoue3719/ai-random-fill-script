@@ -41,7 +41,7 @@
 
 ## ライセンス / License
 
-このプロジェクトは [MIT License](LICENSE) の下で公開されています。
+このプロジェクトは MIT License の下で公開されています。
 
 ## 著者 / Author
 
