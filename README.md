@@ -2,8 +2,8 @@
 
 **[JP]** Adobe Illustratorで選択したオブジェクトの「塗り」をランダムな色に変更するスクリプト。  
 **[EN]** An Adobe Illustrator script that applies random fill colors to selected objects.
+![https://raw.githubusercontent.com/K-inoue3719/ai-random-fill-script/refs/heads/main/demo.png](https://raw.githubusercontent.com/K-inoue3719/ai-random-fill-script/refs/heads/main/demo.png)
 
-![Demo Image](https://placehold.jp/800x400.png?text=Demo+Image+Here)
 ## 特徴 / Features
 
 * **Simple:** 選択してスクリプトを実行するだけの簡単操作。
@@ -45,6 +45,6 @@
 
 ## 著者 / Author
 
-* **Keisuke-Inoue**
+* **K-Inoue**
 * Web: [https://3kaku.work/](https://3kaku.work/)
 * Twitter/X: [info@3kaku](https://x.com/info3kaku)
